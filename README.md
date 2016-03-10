@@ -9,5 +9,5 @@ Converts a GenBank file (*.gbk) to an NCBI Protein Table (*.ptt) file
 
 ## How to Run
 ```bash
-GBKtoPTT.pl < [yourgbkfile.gbk] > [yourdesiredoutputfile.ptt]
+perl GBKtoPTT.pl < [yourgbkfile.gbk] > [yourdesiredoutputfile.ptt]
 ```

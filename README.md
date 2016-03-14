@@ -1,7 +1,7 @@
 # gbk2ptt
 Converts a GenBank file (*.gbk) to an NCBI Protein Table (*.ptt) file
 
-*Note: This repository contains all the code to run on a webserver. If running locally, you only need to GBKtoPTT.pl file.*
+*Note: This repository contains all the code to run on a webserver. If running locally, you only need the GBKtoPTT.pl file.*
 
 ### Requirements
 * Perl (ActivePerl for Windows may work)
